@@ -17,6 +17,6 @@ ul.todo-list li {
   list-style: none;
 }
 
-#todo {
+#todo , .modifica {
   display: none;
 }
